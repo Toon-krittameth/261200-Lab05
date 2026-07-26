@@ -2,7 +2,7 @@ import java.time.LocalDate;
 
 public class Lab05 {
     public static void main(String[] args) {
-
+        git status
         User john = new User("John", 1954, 2, 18);
         System.out.println(john.getInfo());
 
